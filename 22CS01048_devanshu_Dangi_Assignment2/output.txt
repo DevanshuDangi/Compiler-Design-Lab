@@ -5,6 +5,6 @@
 (id, hola)
 (id, amiga)
 (id, int)
-(id, sangam)
+(id, sir)
 (relop, =)
 (id, abcd)

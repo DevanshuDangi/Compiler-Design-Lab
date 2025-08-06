@@ -1,2 +1,2 @@
 if danintgi=10 
-hola amiga int sangam=abcd
+hola amiga int sir=abcd
